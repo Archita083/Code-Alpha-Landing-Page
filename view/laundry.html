@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="laundry.css">
+    
+</head>
+<body>
+    <div id="total-div">
+    <!--Home page html-->
+        <div id="first-section">
+            <p><h1>Welcome To Laxmi Laundry Management System</h1></p>  
+        </div>
+             <div id="scond-section">
+                <p><h2>Home Page</h2></p>
+                <p><input type="button" id ="register" value="Register"></a></p>
+                <p><input type="button" id="login" value="Login"></a></p>
+             </div>
+    </div>
+    <!--Registration page html--> 
+    <div id="total-div">
+    <div id="first-section">
+        <p><h1>Welcome To Laxmi Laundry Management System</h1></p>
+    </div>
+
+    <div id="second-section">
+        <form>
+            <p id="lms">LMS || User Registration</p>
+            <p><input id="fullname" type = "text" name = "fullname" placeholder="Full name"/></p> 
+
+            <p><input id="phonenumber" type = "text" name = "phonenumber" placeholder="Phone number"/></p>
+ 
+            <p><input id="email" type="text" name="email" placeholder="Email"/></p>
+
+            <p><input id="password" type="text" name="password" placeholder="Password"/></p>
+
+            <p>
+            <label></label>
+            <select name="usertype" id="usertype">
+            <option value = "Laundry user">Laundry user</option>
+            <option value = "Laundry emolyee">Laundry employee</option>
+            </select></p>
+
+            <input id="register" type = "button" name = "submit" value = "Register"/>
+
+            <p><a href="">Home page</a></p>
+        </form>
+    </div>
+    </div>
+        <!--Login page html-->
+        <div id="total-div">
+        <div id="first-section">
+            <p><h1>Welcome To Laxmi Laundry Management System</h1></p>
+        </div>
+            <div id="second-section">
+                <form>
+                    <p id="lms">LMS || User Login</p>
+         
+                    <p><input id="email" type="text" name="email" placeholder="Email"/></p>
+        
+                    <p><input id="password" type="text" name="password" placeholder="Password"/></p>
+                    <input id="login" type = "button" name = "submit" value = "Login"/>
+    
+                    <p><a href="">Home page</a></p>
+                    <p><a href="">Forgot Password?</a></p>
+                    <p><a href="">Change Password</a></p>
+                </form>
+            </div>
+        </div>
+        <!--User Dashboard html--> 
+         <div id="total-div">
+        <div id="first-section">
+            <p id="logout"><a href="">Log out</a></p>
+            <p><h1>Laxmi Laundry Management System</h1></p>
+        </div>
+        <div id="scond-section">
+                <p><h1>User Dashboard</h1></p>
+                
+                <p><input type="submit" id="newrequest" value="New request" ></p>
+            
+                <p><input type="button" id="oldrequest" value="View Old Requests" ></p>
+        </div>
+         </div>
+        <!--Employee Dashboard html-->
+        <div id="total-div">
+        <div id="first-section">
+            <p id="logout"><a href="">Log out</a></p>
+            <p><h1>Laxmi Laundry Management System</h1></p>
+        </div>
+
+        <div id="scond-section">
+            <h1>Employee Dashboard</h1>
+            <input type="button" id="status" value="Update Status"></a>
+        </div>
+        </div>
+        <!--New request html-->
+        <div id="total-div"> 
+        <div id="first-section">
+            <p id="logout"><a href="">Log out</a></p>
+            <p><h1>Laxmi Laundry Management System</h1></p>
+        </div>
+        <div id="second-section">
+        <form>
+            <p id="request"> New Request </p>
+            <p>Pickup Date :<input type="date" id="pickup" name="pickupdate" placeholder="Pickup Date"></p>
+            <p><input type="text" id="topwear" name="topwear" placeholder="Topwear(T-shirt,Top,Shirt)"></p> 
+            <p><input type="text" id="bottomwear" name="bottomwear" placeholder="Bottomwear(Lower,Jeans,Leggins)"></p>
+            <p><input type="text" id="otherwears" name="otherwears" placeholder="Others"></p>
+            
+            <p><input type="button" id="submit" value="Submit" ></p>
+            <p><a href="">User Dashboard</a></p>
+        </form>
+        </div>
+        </div>
+        <!--Forgot password html-->
+        <div id="total-div">
+        <div id="first-section">
+            <p><h1>Welcome To Laxmi Laundry Management System</h1></p>
+          </div>
+        <div id="second-section">
+        <form>
+        <p><h2>Forgot Password</h2></p>
+        <p><input id="fullname" type="text" name="fullname" placeholder="Full name"></p>
+    
+        <p><input id="email" type="text" name="email" placeholder="Email"></p>
+        
+        <input id="submit" type = "button" name = "submit" value = "Retrieve Password"/>
+        <p><a href="">Login</a></p>
+        </form>
+        </div>
+        </div>
+        <!--Change password html-->
+        <div id="total-div">
+        <div id="first-section">
+            <p id="logout"><a href="">Log out</a></p>
+            <p><h1>Welcome To Laxmi Laundry Management System</h1></p>
+        </div>
+        <div id="second-section">
+            <form>
+            <p><h2>Change Password</h2></p>
+            <p><input id="email" type="text" name="email" placeholder="Email"></p>
+    
+            <p><input id="oldpassword" type="text" name="oldpassword" placeholder="Old Password"></p>
+    
+            <p><input id="newpassword" type="text" name="newpassword" placeholder="New Password"></p>
+        
+            <p><input id="confirmpassword" type="text" name="confirmpassword" placeholder="Confirm Password"></p>
+            <p><input id="submit" type="button" value="Confirm Password"/></p>
+            </form>
+        </div>
+        </div>
+</body>
+</html>

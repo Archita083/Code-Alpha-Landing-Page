@@ -1,0 +1,306 @@
+/*Home page css*/
+#total-div {
+    background-image: url("https://partselectcom.azureedge.net/assets/content/58702/laundry-cheat-sheet-header.png");
+    width: 100%;
+    height: 100%;
+    position: relative;
+    }
+      #first-section {
+        width: 100%;
+        height: 76px;
+        background-color: hsl(196, 77%, 81%);
+        font-weight: bold;
+        font-size: medium;
+        padding-top: 30px;
+        padding-left: 4px; 
+        padding-right: 4px;
+        text-align: center;
+        position: relative;
+      }
+       #scond-section {
+        width: 100%;
+        text-align: center;
+        font-weight: bold;
+        font-size: medium;
+        padding-top: 30px;
+        padding-left: 4px;
+        padding-right: 4px;
+        position: relative;
+       }
+      #register {
+        width:130px ;
+        height: 30px;
+        background-color:  rgba(238, 0, 255, 0.796);
+        text-align: center;
+        text-decoration-color: black;
+        border-radius: 3px;
+        
+        
+    }
+      #login {
+        width:130px ;
+        height: 30px;
+        background-color: rgba(238, 0, 255, 0.796);
+        text-align: center;
+        text-decoration-color: black;
+        border-radius: 3px;
+       
+      }
+      /*Registration page css*/      
+      #total-div {
+        background-image: url("https://partselectcom.azureedge.net/assets/content/58702/laundry-cheat-sheet-header.png");
+        width: 100%;
+        height: 100%;
+        position: relative;
+        
+        } 
+      #first-section {
+        width: 100%;
+        height: 76px;
+        background-color: hsl(196, 77%, 81%);
+        font-weight: bold;
+        font-size: medium;
+        padding-top: 0%;
+        padding-left: 4px; 
+        padding-right: 4px;
+        text-align: center;
+        position: relative;
+      }   
+      #second-section {
+        width: 320px;
+        height: 285px;
+        background-color: hsl(146, 32%, 51%);
+        margin-left: 550px;
+        margin-right: 650px;
+        padding:100px 20px 20px 20px;
+        border-radius: 10px;
+        text-align: center;
+      }
+      
+      /*Login Page css*/
+      #total-div {
+        background-image: url("https://partselectcom.azureedge.net/assets/content/58702/laundry-cheat-sheet-header.png");
+        width: 100%;
+        height: 100%;
+        position: relative;
+        }
+      #first-section {
+        width: 100%;
+        height: 76px;
+        background-color: hsl(196, 77%, 81%);
+        font-weight: bold;
+        font-size: medium;
+        padding-top: 0%;
+        padding-left: 4px; 
+        padding-right: 4px;
+        text-align: center;
+        position: relative;
+      }   
+      #second-section {
+        width: 320px;
+        height: 285px;
+        background-color: hsl(146, 32%, 51%);
+        margin-left: 550px;
+        margin-right: 650px;
+        padding:100px 20px 20px 20px;
+        border-radius: 10px;
+        text-align: center;
+      }
+      /*Laundry user dashborad css*/
+      #total-div {
+        background-image: url("https://partselectcom.azureedge.net/assets/content/58702/laundry-cheat-sheet-header.png");
+        width: 100%;
+        height: 100%;
+        position: relative;
+        }
+      #first-section {
+        width: 100%;
+        height: 76px;
+        background-color: hsl(196, 77%, 81%);
+        font-weight: bold;
+        font-size: medium;
+        padding-top: 0%;
+        padding-left: 4px; 
+        padding-right: 4px;
+        text-align: center;
+        position: relative;
+      }   
+      #scond-section {
+        width: 100%;
+        text-align: center;
+        font-weight: bold;
+        font-size: medium;
+        padding-top: 30px;
+        padding-left: 4px;
+        padding-right: 4px;
+        position: relative;
+       }
+         
+      #newrequest {
+        width:130px ;
+        height: 30px;
+        background-color: rgba(238, 0, 255, 0.796);
+        text-align: center;
+        text-decoration-color: black;
+        border-radius: 3px;
+              
+      }
+      #oldrequest {
+        width:130px ;
+        height: 30px;
+        background-color: rgba(238, 0, 255, 0.796);
+        text-align: center;
+        text-decoration-color: black;
+        border-radius: 3px;
+      }
+      /*Laundry employee dashboard css*/  
+      #total-div {
+        background-image: url("https://partselectcom.azureedge.net/assets/content/58702/laundry-cheat-sheet-header.png");
+        width: 100%;
+        height: 100%;
+        position: relative;
+        }
+      #first-section {
+        width: 100%;
+        height: 76px;
+        background-color: hsl(196, 77%, 81%);
+        font-weight: bold;
+        font-size: medium;
+        padding-top: 0%;
+        padding-left: 4px; 
+        padding-right: 4px;
+        text-align: center;
+        position: relative;
+      }   
+      #scond-section {
+        width: 100%;
+        text-align: center;
+        font-weight: bold;
+        font-size: medium;
+        padding-top: 30px;
+        padding-left: 4px;
+        padding-right: 4px;
+        position: relative;
+       }
+      #status {
+        width:130px ;
+        height: 30px;
+        background-color: rgba(238, 0, 255, 0.796);
+        text-align: center;
+        text-decoration-color: black;
+        border-radius: 3px;
+      }
+  
+    /*New request css*/
+    #total-div {
+      background-image: url("https://partselectcom.azureedge.net/assets/content/58702/laundry-cheat-sheet-header.png");
+      width: 100%;
+      height: 100%;
+      position: relative;
+      }
+    #first-section {
+      width: 100%;
+      height: 76px;
+      background-color: hsl(196, 77%, 81%);
+      font-weight: bold;
+      font-size: medium;
+      padding-top: 0%;
+      padding-left: 4px; 
+      padding-right: 4px;
+      text-align: center;
+      position: relative;
+    }   
+    #second-section {
+      width: 320px;
+      height: 285px;
+      background-color: hsl(146, 32%, 51%);
+      margin-left: 550px;
+      margin-right: 650px;
+      padding:100px 20px 20px 20px;
+      border-radius: 10px;
+      text-align: center;
+    }
+    #submit {
+      width:130px ;
+      height: 30px;
+      background-color: rgba(238, 0, 255, 0.796);
+      text-align: center;
+      text-decoration-color: black;
+      border-radius: 3px;
+    }
+  
+    /*Forgot password css*/
+    #total-div {
+      background-image: url("https://partselectcom.azureedge.net/assets/content/58702/laundry-cheat-sheet-header.png");
+      width: 100%;
+      height: 100%;
+      position: relative;
+      }
+    #first-section {
+      width: 100%;
+      height: 76px;
+      background-color: hsl(196, 77%, 81%);
+      font-weight: bold;
+      font-size: medium;
+      padding-top: 0%;
+      padding-left: 4px; 
+      padding-right: 4px;
+      text-align: center;
+      position: relative;
+    }   
+    #second-section {
+      width: 320px;
+      height: 285px;
+      background-color: hsl(146, 32%, 51%);
+      margin-left: 550px;
+      margin-right: 650px;
+      padding:100px 20px 20px 20px;
+      border-radius: 10px;
+      text-align: center;
+    }
+    #submit {
+      width:130px ;
+      height: 30px;
+      background-color: rgba(238, 0, 255, 0.796);
+      text-align: center;
+      text-decoration-color: black;
+      border-radius: 3px;
+    }
+     
+    /*Change password css*/
+    #total-div {
+      background-image: url("https://partselectcom.azureedge.net/assets/content/58702/laundry-cheat-sheet-header.png");
+      width: 100%;
+      height: 100%;
+      position: relative;
+      }
+    #first-section {
+      width: 100%;
+      height: 76px;
+      background-color: hsl(196, 77%, 81%);
+      font-weight: bold;
+      font-size: medium;
+      padding-top: 0%;
+      padding-left: 4px; 
+      padding-right: 4px;
+      text-align: center;
+      position: relative;
+    }   
+    #second-section {
+      width: 320px;
+      height: 285px;
+      background-color: hsl(146, 32%, 51%);
+      margin-left: 550px;
+      margin-right: 650px;
+      padding:100px 20px 20px 20px;
+      border-radius: 10px;
+      text-align: center;
+    }
+    #submit {
+      width:130px ;
+      height: 30px;
+      background-color: rgba(238, 0, 255, 0.796);
+      text-align: center;
+      text-decoration-color: black;
+      border-radius: 3px;
+    }
